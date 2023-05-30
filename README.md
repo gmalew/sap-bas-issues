@@ -1,1 +1,1 @@
-# sap-bas-issues
+# SAP Business Application Studio - dummy project for tracking open issues
